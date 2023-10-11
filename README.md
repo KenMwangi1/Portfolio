@@ -6,11 +6,13 @@
 -Data Engineering - Explore AI Academy
 
 ###Work Experience
+
 -OmniBiosystems
 -Africus Insurance
 -Metlife
 
 ###Projects
+
 -1M songs Playlist
 -COVID-19 Data EDA
 -Image Recognition for Art Classification
