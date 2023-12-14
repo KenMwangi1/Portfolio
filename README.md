@@ -4,6 +4,7 @@
 
 -Data Science & Machine Learning - MIT IDSS   
 -Data Engineering - Explore AI Academy
+-Economics- Maseno University
 
 ###Work Experience
 
@@ -14,8 +15,8 @@
 ###Projects
 
 -1M songs Playlist
--COVID-19 Data EDA
--Image Recognition for Art Classification
--Real-time Anomaly Detection System
--World CookBook & Recipes LLM
 -Social Media Analytics
+-World Map Navigator
+-Movie Recommender
+-Fake News Detector
+
